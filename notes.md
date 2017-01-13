@@ -18,4 +18,7 @@ Each loader needs ( 3 ) things
 
 components
 	- every component needs a *render* method
-	
+
+node modules
+react
+react-dom (with react-native, need something get react and the dom talking)
