@@ -22,3 +22,5 @@ components
 node modules
 react
 react-dom (with react-native, need something get react and the dom talking)
+
+// use components in sketch buildout
